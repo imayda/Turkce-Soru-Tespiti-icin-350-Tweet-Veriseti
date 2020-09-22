@@ -1,4 +1,4 @@
-# Türkçe Soru Tespiti için 350 Tweetlik Veriseti
+# Türkçe Soru Tespiti için 350 Tweet Veriseti
 
 Türkçe soru tespiti çalışmasında kullanılmak üzere Twitter'da #engüzeli hashtag'iyle atılmış 350 tweet toplanmıştır.  **"Tweetler.txt"** dosyasında toplanan tweetlerin orijinal halleri mevcuttur. **"DuzeltilmisTweetler.txt"** dosyasında, Zemberek kütüphanesinin kelime düzeltme fonksiyonundan faydalanılarak orijinal tweetlerin yazım hatalarının otomatik düzeltilmiş halleri bulunmaktadır. **"CozumlenmisTweetler.txt"** dosyasında ise yine Zemberek kütüphanesi kullanılarak tweetlerde geçen kelimelerin çözümlenmiş halleri yer almaktadır. Dosyalardaki her bir satırda bir tweet verisi mevcuttur.
 
