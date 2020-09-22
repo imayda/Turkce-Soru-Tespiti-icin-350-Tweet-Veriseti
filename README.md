@@ -18,4 +18,6 @@ Veri kümesindeki örnek sayısı: 142 tanesi (%40.57) soru içeren + 208 tanesi
 
 **Veri kümesi üzerinde yapılan çalışmaya dair yayın:**
 
-https://dergipark.org.tr/tr/pub/veri/issue/41532/489775
+DergiPark: https://dergipark.org.tr/tr/pub/veri/issue/41532/489775
+
+ResearchGate: https://www.researchgate.net/publication/330352133_Turkce_Tweetler_Uzerinde_Otomatik_Soru_Tespiti
